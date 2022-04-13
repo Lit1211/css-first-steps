@@ -10,7 +10,7 @@ body{
     font-family: 'Anek Odia', sans-serif;
     width: 1000px;
     margin-left: 80px;
-    margin-right: 20px;
+   
 }
 
 a{
@@ -60,7 +60,6 @@ border-radius: 15px;
 .container {
     width: 100%;
     margin: auto;
-
 }
 /*
 .box-model > div{
@@ -106,6 +105,9 @@ box-sizing: border-box;
     .info{
         display: block;
         text-align: center;
+    }
+    .body{
+        width: 80%;
     }
     
 }
