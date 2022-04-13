@@ -10,6 +10,7 @@ body{
     font-family: 'Anek Odia', sans-serif;
     width: 1000px;
     margin-left: 80px;
+    margin-right: 20px;
 }
 
 a{
@@ -106,10 +107,7 @@ box-sizing: border-box;
         display: block;
         text-align: center;
     }
-    .body{
-        width: 300px;
-        margin-right: 20px;
-    }
+    
 }
 
 .info-text{
